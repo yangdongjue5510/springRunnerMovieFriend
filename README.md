@@ -39,3 +39,10 @@ $❯ build/moviebuddy/bin/moviebuddy
 ---
 
 워크숍(강좌)에 대한 자세한 소개는 [여기](https://springrunner.dev/training/learn-essence-of-spring-workshop/)에서 볼 수 있습니다.
+
+
+
+## 요구사항
+
+#### 1. XML 등 다양한 형테의 데이터도 입력할 수 있도록 확장하라
+
